@@ -1,3 +1,4 @@
+HEAD
 # Smart Cart & Coupon Checkout – E-commerce Full Stack App
 
 ## Overview
@@ -107,3 +108,5 @@ dotnet test
 4. Cart IDs are GUIDs generated server-side
 5. Stock is validated at both add-to-cart and checkout time
 6. Only one coupon can be applied per cart
+=======
+# Ecommerce-App
